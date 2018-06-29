@@ -10,7 +10,7 @@ Clone the repo then:
 
 ## Run
 
-    node index.js
+    nodejs index.js
 
 ## License
 
